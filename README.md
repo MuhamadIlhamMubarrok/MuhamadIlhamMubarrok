@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpeg" alt="Ilham Fullstack Developer" width="100%" />
 
 # Hello World! I'm Ilham, an Indonesian Full Stack Developer 👋🏼  
 
